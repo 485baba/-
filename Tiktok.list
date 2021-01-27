@@ -1,5 +1,3 @@
-# Streaming Media
-# (Podcast)
 # > TikTok
 USER-AGENT,TikTok*,Streaming
 DOMAIN-SUFFIX,byteoversea.com,Streaming
