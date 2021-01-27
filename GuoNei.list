@@ -1,4 +1,6 @@
 # China Area Network
+# > 一刻
+DOMAIN-SUFFIX,yikeapp.com,DIERCT
 # > 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
 DOMAIN-SUFFIX,qhimg.com,DIRECT
