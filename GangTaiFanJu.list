@@ -1,4 +1,5 @@
-# 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
+# > BilibiliHMT 哔哩哔哩 港澳台番剧
+DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,bilibili.com
 IP-CIDR,45.43.32.234/32
