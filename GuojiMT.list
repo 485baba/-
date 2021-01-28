@@ -1,5 +1,7 @@
 # Streaming Media
 # (Podcast)
+# > IqiyiHMT
+DOMAIN,cache.video.iqiyi.com
 # > Himalaya
 USER-AGENT,Himalaya*,Streaming
 DOMAIN-SUFFIX,himalaya.com,Streaming
